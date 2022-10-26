@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+
+#slider{width: 100%; height: 650px;}
+#slider img{width: 100%; height: 650px;}
+
+section #box1{width: 100%; height: 480px; background-color: #f5f6fa; padding: 10px;}
+#box1 h1 {text-align: center; font-family: 'Petit Formal Script', cursive; font-size: 40px; margin: 50px 15px 15px 15px;}
+#box1 p{text-align: center; font-size: 18px; padding: 25px; color: #707070;}
+#box1 p > b{color: black;}
+#box1 .dalkomm{text-align: center; font-size: 16px;}
+
+section #box2{width: 1185px; height: 550px; margin: 0 auto; padding: 40px 30px;}
+#box2 h2{text-align: center; font-size: 30px; margin-top: 40px;}
+#box2 .last{width: 540px; height: 150px; float: left; margin: 10px;}
+#box2 .last img{width: 130px; height: 130px; margin: 10px; float: left;}
+#box2 .last p{margin-top: 25px;}
+#box2 .signature{color: #555555;}
+#box2 .natural{color: #555555;}
+#box2 .last2{width: 540px; height: 150px; float: left; margin: 10px;}
+#box2 .last2 img{width: 130px; height: 150px; float: left; margin-left: 10px;}
+#box2 .Specia{text-align: center; margin-top: 10px;}
+#box2 .last2 p{width: 400px; float: right; padding-top: 10px;}
+#box2 .light {text-align: center; margin-top: 10px;}
+
+section #box3{width: 100%; height: 595px; background-color: #f5f6fa;}
+#box3 .menu{width: 25%; height: 310px; float: left; border: 3px solid #fff; margin-top: 70px;}
+#box3 h2{text-align: center; padding-top: 50px; font-size: 30px; font-family: 'Gupter', serif;
+font-family: 'Kavivanar', cursive;
+font-family: 'Nova Slim', cursive;
+font-family: 'Quintessential', cursive;
+font-family: 'Raleway', sans-serif;}
+#box3 .menu img {width: 100%; height: 305px;}
+#box3 p{margin: 50px 150px; float: left;}
+
+section #box4{width: 1170px; height: 600px; margin: 0 auto; padding: 10px;}
+#box4 .cream{width: 440px; height: 345px; margin: 100px; padding: 10px;}
+#box4 .cream .u{width: 260px; height: 40px; margin: 0 auto; border-bottom: 1px solid #cdcdcd;}
+#box4 .cream h2{text-align: center;}
+#box4 .cream b{margin: 10px;}
+#box4 table{width: 90%;  margin: 30px auto; border-spacing: 8px;}
+#box4 table th{width: 30%; }
+#box4 table td{font-size: 14px; }
+#box4 .cream small{color: #686868;}
+
+
+#box4 .cake{width: 580px; height: 610px; border: 30px solid #fff; float: right; margin-top: -650px;}
+#box4 .cake img{width: 100%; height: 560px;}
+
+section #box5{width: 100%; height: 465px;}
+#box5 h2{text-align: center;font-family: 'Gupter', serif; font-family: 'Kavivanar', cursive;
+font-family: 'Nova Slim', cursive; font-family: 'Quintessential', cursive; font-family: 'Raleway', sans-serif; font-size: 40px;}
+#box5 .icon_box{width: 1000px; height: 100%; margin: 0 auto;}
+#box5 .icon{width: 30%; height: 300px; margin: 1.65%; float: left;}
+#box5 .icon img{margin: 50px 45px;}
+#box5 .icon p{text-align: center; margin-top: -50px; font-size: 20px;}
+
+section #box6{width: 100%; height: 1000px; background-color: #eaeaea;}
+#box6 h2{text-align: center; font-size: 40px; font-family: 'Kavivanar', cursive;
+font-family: 'Nova Slim', cursive; font-family: 'Quintessential', cursive; font-family: 'Raleway', sans-serif; padding-top: 100px;}
+#box6 .blog_box>p{text-align: center; color: #707070; margin-top: 15px;}
+#box6 .blog_box{width: 1300px; height: 970px; margin: 0 auto; }
+#box6 .blog{width: 28.7%; height: 560px; background-color:white; float: left; margin: 90px 30px; box-shadow: 3px 3px 3px #999;}
+.blog_box .blog img{height: 250px;}
+.blog_box .blog h3{text-align: center; font-size: 23PX;  color: #8a8a8a;}
+.blog_box .blog p{padding: 35px 20px; color: black;}
+
